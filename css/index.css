@@ -1,0 +1,21 @@
+.container{
+    background-color: #9e9b9b;
+    color: white;
+    width: 500px;
+    display: flex;
+    /* flex-direction: row-reverse; */
+    flex-direction: column-reverse;
+}
+.item{
+    margin: 10px;
+    padding: 10px;
+}
+.item1{
+    background-color: deeppink;
+}
+.item2{
+    background-color: darkblue;
+}
+.item3{
+    background-color: darkcyan;
+}
